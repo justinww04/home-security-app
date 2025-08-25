@@ -12,4 +12,4 @@ Frontend: React + Vite
 ```bash
 cd backend
 copy .env.example .env   # (optional) tweak values
-run.bat                  # creates venv, installs deps, runs FastAPI on :8000
+run.bat                  # creates venv, installs deps, runs FastAPI on :8000# home-security-app
