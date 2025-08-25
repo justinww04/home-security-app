@@ -1,0 +1,31 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Node
+node_modules/
+dist/
+build/
+
+# dotenv & local config
+.env
+.env.*
+
+# Logs
+*.log
+
+# Snapshots
+backend/snapshots/
+snapshots/
