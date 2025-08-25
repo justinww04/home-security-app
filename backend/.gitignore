@@ -29,3 +29,4 @@ build/
 # Snapshots
 backend/snapshots/
 snapshots/
+backend/data/snaps
