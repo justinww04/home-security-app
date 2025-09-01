@@ -13,7 +13,6 @@ export default function App() {
       .then(() => setHealth("up"))
       .catch(() => setHealth("down"));
   }, []);
-
   return (
     <>
       <header>
