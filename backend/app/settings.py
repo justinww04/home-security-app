@@ -20,7 +20,7 @@ class Settings:
     SNAP_DIR: str = os.path.join(DATA_DIR, "snaps")
     DB_PATH: str = os.path.join(DATA_DIR, "storage.db")
 
-    # CORS / Frontend
+    # CORS / (Frontend)
     FRONTEND_ORIGIN: str = os.getenv("FRONTEND_ORIGIN", "http://localhost:5173")
 
 settings = Settings()
