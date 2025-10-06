@@ -15,7 +15,7 @@ class Settings:
     MULTI_FRAME_REQUIRED: int = int(os.getenv("MULTI_FRAME_REQUIRED", "3"))
     PERSON_COOLDOWN_SEC: int = int(os.getenv("PERSON_COOLDOWN_SEC", "180"))  # 3 minutes
 
-    # Storage paths
+    # Storage (paths)
     DATA_DIR: str = os.getenv("DATA_DIR", "data")
     SNAP_DIR: str = os.path.join(DATA_DIR, "snaps")
     DB_PATH: str = os.path.join(DATA_DIR, "storage.db")
