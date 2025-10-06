@@ -3,7 +3,7 @@ import os
 class Settings:
         #Camera settings
     
-    # Camera index for OpenCV (0 is default webcam). For GoPro in Webcam Mode, it should appear as a normal camera.
+    # Camera index for OpenCV 
     CAMERA_INDEX: int = int(os.getenv("CAMERA_INDEX", "0"))
     # MJPEG frame rate for the HTTP stream
     MJPEG_FPS: int = int(os.getenv("MJPEG_FPS", "20"))
