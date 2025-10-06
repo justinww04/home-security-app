@@ -7,7 +7,7 @@ import cv2
 from collections import deque, defaultdict
 from datetime import datetime
 
-# InsightFace for detection+embedding (auto-downloads models)
+# InsightFace for detection+embedding
 from insightface.app import FaceAnalysis
 import numpy.typing as npt
 
