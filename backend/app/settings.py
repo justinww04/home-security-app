@@ -8,7 +8,7 @@ class Settings:
     # MJPEG frame rate for the HTTP stream
     MJPEG_FPS: int = int(os.getenv("MJPEG_FPS", "20"))
 
-    # Recognition thresholds
+    # Recognition (thresholds)
     MIN_FACE_PX: int = int(os.getenv("MIN_FACE_PX", "120"))   # min face width in pixels
     SIMILARITY_THRESH: float = float(os.getenv("SIMILARITY_THRESH", "0.7"))  # cosine similarity
     MULTI_FRAME_N: int = int(os.getenv("MULTI_FRAME_N", "6"))
