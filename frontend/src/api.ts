@@ -61,4 +61,6 @@ export const snapshotURL = `${BASE_URL}/snapshot`;
 export const videoURL = `${BASE_URL}/video.mjpg`;
 export const wsURL = `${BASE_URL.replace(/^http/, "ws")}/ws/events`;
 
+
+
 export { api };
