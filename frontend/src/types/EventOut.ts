@@ -10,5 +10,6 @@ export interface EventOut {
   camera: string;
   
   snapshot_path: string;
+
   
 }
