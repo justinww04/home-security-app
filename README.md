@@ -16,3 +16,7 @@ cd backend
 copy .env.example .env   # (optional) tweak values
 
 run.bat                  # creates venv, installs deps, runs FastAPI on :8000# home-security-app
+
+#TODO
+
+-add a homepage
