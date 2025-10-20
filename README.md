@@ -20,3 +20,4 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 #TODO
 
 -add a homepage
+-add admin controls
