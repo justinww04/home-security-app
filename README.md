@@ -24,3 +24,6 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 -add profile management --not complete
 -add account creation and login page --not complete
 
+
+
+-working on frontend design
