@@ -35,7 +35,7 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 
 -working on facial feature tracking -sorta complete
 -figuring out faster way to process user facial data to realtime camera view
--realtime facial feature racognition
+-realtime facial feature racognition -complete
 -working on new facial recogniton script - complete
 
 -still fine tuning facial feature recognition
