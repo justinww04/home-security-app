@@ -41,4 +41,4 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 -still fine tuning facial feature recognition
 -fixing camera speed - complete
 -fixing sms notifications -complete
--fixing real time alerts complete
+-fixing real time alerts via sms complete
