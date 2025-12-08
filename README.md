@@ -45,3 +45,4 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 
 
 -working on real time chat bot
+-using zapier to connect the chat bot to automate certain functions
