@@ -19,7 +19,7 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 
 #TODO
 
--add a homepage --complete
+-add a homepage --complete - changed
 -add admin controls --complete
 -add profile management --complete
 -add account creation and login page --complete
