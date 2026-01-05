@@ -42,7 +42,7 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 -fixing camera speed - complete
 -fixing sms notifications -complete
 -fixing real time alerts via sms complete
--working on mobile version
+-working on mobile version- complete
 -fixing sudden errors 
 
 
