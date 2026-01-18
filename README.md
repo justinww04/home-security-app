@@ -20,7 +20,7 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 #TODO
 
 -add a homepage --complete - changed-  new remodel done
--add admin controls --complete
+-add admin controls --complete --added account deletetion page
 -add profile management --complete
 -add account creation and login page --complete -adding 2fa --currently adding sms verification for the 2 factor authentification. complete
 
