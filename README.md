@@ -30,7 +30,7 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 -adding a verified guests card - complete 
 -In verified guests I want active and un active guests tab  - complete
 -trying to figure out best way for phone alerts  - complete
--working on an app home screen - finished
+-working on an app home screen - finished -- updated
 
 
 -working on facial feature tracking -complete
