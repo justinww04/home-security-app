@@ -25,7 +25,6 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 -add account creation and login page --complete -adding 2fa --currently adding sms verification for the 2 factor authentification. complete
 
 
-
 -working on frontend design -- complete --remodeled
 -adding a verified guests card - complete 
 -In verified guests I want active and un active guests tab  - complete
