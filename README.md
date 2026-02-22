@@ -46,5 +46,5 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 -working on real time update notifications
 
 -working on real time Ai Chat bot, it will be able to answer any questions needed for users
--using zapier to connect the chat bot to automate certain functions
+-using zapier to connect the chat bot to automate certain functions - update
 
