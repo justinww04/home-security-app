@@ -49,4 +49,4 @@ run.bat                  # creates venv, installs deps, runs FastAPI on :8000# h
 -using zapier to connect the chat bot to automate certain functions - update
 
 -working on an item detection -- starting to detect items but not holding the detection. updated --updated style. ---updated detection placements 
--working on item detection variations to explain item in detail
+-working on item detection variations to explain item in detail --updated
