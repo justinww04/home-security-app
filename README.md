@@ -1,3 +1,6 @@
+no update today 
+
+
 # Home Security App (MVP)
 
 Backend: FastAPI + InsightFace (GPU if available)  
