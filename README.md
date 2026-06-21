@@ -1,6 +1,8 @@
 no update today 
 
 
+added working parts to use on mac device
+
 # Home Security App (MVP)
 
 Backend: FastAPI + InsightFace (GPU if available)  
