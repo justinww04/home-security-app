@@ -1,5 +1,6 @@
 no update today 
 
+finished working parts to allow apple devices to work 
 
 added working parts to use on mac device
 
