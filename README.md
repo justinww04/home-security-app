@@ -1,3 +1,7 @@
+
+mo update today 
+
+
 no update today 
 
 finished working parts to allow apple devices to work 
