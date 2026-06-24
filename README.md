@@ -1,6 +1,7 @@
 
 mo update today 
 
+working on optimization for remote connections 
 
 no update today 
 
