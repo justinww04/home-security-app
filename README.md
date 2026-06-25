@@ -3,6 +3,8 @@ mo update today
 
 working on optimization for remote connections 
 
+working on the app to send sms alerts faster
+
 no update today 
 
 finished working parts to allow apple devices to work 
