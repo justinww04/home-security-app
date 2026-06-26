@@ -1,6 +1,8 @@
 
 mo update today 
 
+finished optimizations for sms 
+
 working on optimization for remote connections 
 
 working on the app to send sms alerts faster
