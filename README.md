@@ -1,6 +1,8 @@
 
 mo update today 
 
+finished up more optimization for mobile
+
 finished optimizations for sms 
 
 working on optimization for remote connections 
