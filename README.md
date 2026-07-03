@@ -1,4 +1,6 @@
 
+working on a lockdown mode
+
 mo update today 
 
 finished up more optimization for mobile
