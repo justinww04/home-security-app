@@ -1,6 +1,6 @@
 
 working on a lockdown mode, added protocalls for lockdown mode
-
+ 
 mo update today 
 
 finished up more optimization for mobile
