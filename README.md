@@ -1,3 +1,7 @@
+started a re work on the app
+
+
+
 
 working on a lockdown mode, added protocalls for lockdown mode
  
