@@ -1,5 +1,6 @@
 started a re work on the app
 
+looking at adding more than one camera at time
 
 
 
