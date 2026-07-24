@@ -8,7 +8,7 @@ working on a lockdown mode, added protocalls for lockdown mode- adding lock down
  
 mo update today 
 
-finished up more optimization for mobile
+finished up more optimization for mobile - reworked some of the optimizations
 
 finished optimizations for sms 
 
