@@ -4,7 +4,7 @@ looking at adding more than one camera at time
 
 
 
-working on a lockdown mode, added protocalls for lockdown mode
+working on a lockdown mode, added protocalls for lockdown mode- adding lock down mode self set parameters
  
 mo update today 
 
