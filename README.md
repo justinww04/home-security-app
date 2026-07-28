@@ -10,7 +10,7 @@ mo update today
 
 finished up more optimization for mobile - reworked some of the optimizations
 
-finished optimizations for sms - re worked sms alert message 
+finished optimizations for sms - re worked sms alert message - finished 
 
 working on optimization for remote connections 
 
