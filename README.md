@@ -3,6 +3,9 @@ started a re work on the app
 looking at adding more than one camera at time- re worked 
 
 
+working on hand signal tracking again
+
+
 
 working on a lockdown mode, added protocalls for lockdown mode- adding lock down mode self set parameters
  
