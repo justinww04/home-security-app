@@ -1,3 +1,7 @@
+working on adding an agent to his to automate certain things in future
+
+
+
 started a re work on the app
 
 looking at adding more than one camera at time- re worked 
