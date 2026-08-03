@@ -1,4 +1,11 @@
-working on adding an agent to his to automate certain things in future
+
+working on adding hand motion tracking 
+
+
+
+pausing this for now —working on adding an agent to his to automate 
+
+certain things in future
 
 
 
