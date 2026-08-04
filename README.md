@@ -1,6 +1,6 @@
 
 working on adding hand motion tracking 
-- worked on the core list of hand motions I’m going to work on the basics such as up, down, left, right 
+- worked on the core list of hand motions I’m going to work on the basics such as up, down, left, right - will be adding more once these are functional 
 
 
 pausing this for now —working on adding an agent to his to automate 
