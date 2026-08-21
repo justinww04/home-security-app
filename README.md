@@ -1,5 +1,6 @@
 no update 
 
+no update 
 working on adding hand motion tracking 
 - worked on the core list of hand motions I’m going to work on the basics such as up, down, left, right - will be adding more once these are functional - been setting up then commands and trying to get the camera to first zoom depending on my hand motions, once I get this working correctly I am going to start testing with a mini drone
 
